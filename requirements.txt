@@ -1,0 +1,5 @@
+fastapi
+vellox
+google-genai
+httpx
+python-dotenv
